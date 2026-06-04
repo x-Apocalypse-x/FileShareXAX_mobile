@@ -1,2 +1,2 @@
-# FileShareXAX_mobile
-FileShare XAX, client for local server
+# LocalShareXAX_mobile
+LocalShare XAX, client for local server
